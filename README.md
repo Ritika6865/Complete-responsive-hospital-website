@@ -3,7 +3,7 @@ Hello everyone, I am Ritika Kapoor.
 
 Industry: Health
 
-Project Title: ### MedCare
+Project Title: """MedCare"""
 
 Problem Statement/Opportunity: These days, due to the pandemic, there has been a great increase in no of patients in the hospitals and one must wait a lot to get any test done. It has become difficult in the selection of suitable medicine for the type of illness and this usually takes time and makes the patient or customer wait. Therefore, the time is being wasted for the customer to be waiting.
 
