@@ -17,7 +17,7 @@ Since we are entering details of the patients electronically in the Hospital Man
 
 It easily reduces the bookkeeping task and thus reduces the human effort and increases accuracy speed due to this pandemic. It will be easier for the doctors and patients to book the appointment as well as we can read the patient’s review. The website offers many services like Free Checkups, 24/7 Ambulance, Bed Facilities, etc.
 
-Technologies Used: HTML, CSS, JavaScript, Bootstrap
+
 
 ## 3. Technologies Used
 HTML, CSS, JavaScript, Bootstrap
@@ -30,6 +30,7 @@ Link: https://ritika6865.github.io/Complete-responsive-hospital-website/
 ![Screenshot (277)](https://user-images.githubusercontent.com/89925659/207886995-1ac345ba-10dc-46d9-987c-b164f1427b45.png)
 ![Screenshot (278)](https://user-images.githubusercontent.com/89925659/207887713-24109556-028b-40ba-822c-84a5bf6818c8.png)
 ![Screenshot (279)](https://user-images.githubusercontent.com/89925659/207887528-aae7693e-3e7a-42af-9c2e-9bb2c6d63627.png)
+![Screenshot (281)](https://user-images.githubusercontent.com/89925659/207888053-8d9d941d-5317-4e75-97b0-6e459ebf9ea1.png)
 
 
 
