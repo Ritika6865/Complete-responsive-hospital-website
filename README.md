@@ -1,7 +1,12 @@
 # Title: Complete-responsive-hospital-website
 Hello everyone, I am Ritika Kapoor.
 
-# 4. Live link
+## 1. Methodology
+![Screenshot (276)](https://user-images.githubusercontent.com/89925659/207886129-d56759e4-1cd7-469d-ba28-ab4e700296a5.png)
+
+
+
+## 4. Live link
 Link: https://ritika6865.github.io/Complete-responsive-hospital-website/
 
 Industry: Health
